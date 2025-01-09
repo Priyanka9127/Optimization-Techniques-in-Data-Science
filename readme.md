@@ -97,7 +97,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 ## Contact 📬
 Have questions or feedback? Feel free to reach out:
 
-Name: Priyanka Kumari/n\n
+Name: Priyanka Kumari
 Email: priyankasimmi1309@gmail.com
 GitHub: Priyanka9127
 Thank you for exploring my project! 😊
